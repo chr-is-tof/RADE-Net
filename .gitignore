@@ -10,3 +10,8 @@ test*.py
 build/
 dist/
 *.egg-info/
+
+# Large model files
+vision_models/dinov3_local/model.safetensors
+vision_models/dinov3_vits16_pretrain_lvd1689m-08c60483.pth
+vision_models/resnet50_weights.pth
