@@ -1,0 +1,12 @@
+__pycache__/
+
+experiments/
+
+test*.py
+
+*.txt
+*.log
+
+build/
+dist/
+*.egg-info/
